@@ -15,6 +15,8 @@ Converted to Markdown table:
 
 
 <img width="703" height="617" alt="Screenshot 2026-04-04 204802" src="https://github.com/user-attachments/assets/3100cb6b-c135-4f1d-a75c-3c7b887f9a90" />
+This file cant be uploaded due to it's big (35mb) file size all fault to each of the key switch models having 13.5k "multiple selections" on it
+
 <img width="925" height="718" alt="Screenshot 2026-04-04 210736" src="https://github.com/user-attachments/assets/87a07ff3-10fd-4f3d-a07a-34d8a6d4cef9" />
 
 gutted version for 3d printing
