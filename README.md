@@ -20,3 +20,4 @@ Converted to Markdown table:
 sources used: https://stasis.hackclub.com/starter-projects/spotify-display       
 https://grabcad.com/library/tft-display-1-8-1     
 https://grabcad.com/library/wemos-esp32-c3-mini-v1-0-0-1
+https://grabcad.com/library/outemu-mx-switch-1
