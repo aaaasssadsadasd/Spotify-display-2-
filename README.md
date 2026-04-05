@@ -19,7 +19,8 @@ Converted to Markdown table:
 
 gutted version for 3d printing
 
-
+<img width="884" height="581" alt="image" src="https://github.com/user-attachments/assets/359402a4-d816-4116-9bc7-689ef85969e6" />
+schematics for witing
 
 
 sources used: 
