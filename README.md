@@ -16,8 +16,9 @@ Converted to Markdown table:
 
 <img width="703" height="617" alt="Screenshot 2026-04-04 204802" src="https://github.com/user-attachments/assets/3100cb6b-c135-4f1d-a75c-3c7b887f9a90" />
 <img width="925" height="718" alt="Screenshot 2026-04-04 210736" src="https://github.com/user-attachments/assets/87a07ff3-10fd-4f3d-a07a-34d8a6d4cef9" />
+
 gutted version for 3d printing
-<img width="1919" height="1067" alt="Screenshot 2026-04-04 162052" src="https://github.com/user-attachments/assets/6288fc0f-39e3-4970-a9e0-12bbcc06904a" />
+
 
 
 
